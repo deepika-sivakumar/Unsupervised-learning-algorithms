@@ -1,7 +1,7 @@
 Unsupervised Learning (CS7641)
 
 1. Download/clone the code from the repository - 
-	https://github.com/deepika-sivakumar/cs7641-randomized-optimization.git
+	https://github.com/deepika-sivakumar/cs7641-unsupervised-learning.git
 2. Datasets from UCI machine learning repository:
 	White wine quality dataset - https://archive.ics.uci.edu/ml/datasets/Wine+Quality
 	Wheat Seeds Dataset - https://www.kaggle.com/dongeorge/seed-from-uci/data
@@ -15,11 +15,11 @@ Unsupervised Learning (CS7641)
 	matplotlib
 	scipy
 5. Steps to run the code:
-	a. Install Anaconda https://docs.anaconda.com/anaconda/install/
-	b. Go to the folder and create environment: conda env create -f env.yml
+	a. Install Anaconda from website: https://docs.anaconda.com/anaconda/install/
+	b. Create conda environment: conda env create -f env.yml
 	c. Activate the environment: conda activate ml
-	d. Run Jupyter Server: jupyter notebook
-	e. A web browser should open.
+	d. Run the Jupyter Server: jupyter notebook
+	e. A web browser will open.
 	f. Open the following ipynb files and run all the cells to generate graphs
 		clustering.ipynb
 		pca.ipynb
