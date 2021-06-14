@@ -1,4 +1,4 @@
-Unsupervised Learning (CS7641)
+Unsupervised Learning
 
 1. Download/clone the code from the repository - 
 	https://github.com/deepika-sivakumar/cs7641-unsupervised-learning.git
